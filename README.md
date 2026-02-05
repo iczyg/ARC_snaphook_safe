@@ -13,14 +13,24 @@ The constraints for this was that we did not want to use external software such 
 As a result, I came up with this script, which runs in 120 ms.
 
 Script works as follows:
+
 I set the resolution to my monitor size (4k).
+
 I set the pixel coordinates to Logitech's absolute coordinates.
+
 I create a smooth mouse dragging motion between 2 coordinates that I will set (so that the mouse doesn't just teleport far away during the script).
+
 I create an event that starts when I press the mouse button (I started with middle mouse which is mouse button 3, then moved it to the tilt of my mousewheel which is button 10 for tilting right, and button 11 for tilting left).
+
 On tilt right, TAB is pressed to bring up the inventory menu, then the mouse is moved to the 4th quick use slot, then mouse click and smoothly drag it to the safepocket slot, before releasing, and then TAB is pressed again to close the menu.
+
 The sleep delays are to allow time for the menu to come up, and for the mouse to have time to be dragged.
+
 On tilt right, a similar procedure is followed, except the item in the 2nd quick use slot is swapped for the item on the top right corner of the backpack.  (This is used to quickly switch between the normal "shield recharger" item and the "surge shield recharger" item.)
 
+
 Usage:
+
 Proper usage of this script will require the user to set the screen width and height to their own screen size, and set the coordinates of their mouse respectively.  The sleep delays have already been optimized to take into account potential game latency.
+
 To use with Logitech software, simply add the .lua script to the current mouse profile and run it.
