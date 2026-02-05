@@ -2,6 +2,7 @@
 
 lua script I wrote for my friend who wanted to easily safe pocket his snap hook after using it in the popular game, Arc Raiders.
 The reason for doing so is due to the snap hook being a very rare, but also very useful item that he did not want to risk losing in-game.  Items in the safe pocket remain with the player no matter what.
+Also, players using the snap hook are usually unable to fire their weapon ingame, however, if the snap hook is moved out of the quick use slot, the player is then able to fire their weapon while traversing through the air.
 
 Video of the script in action:  https://www.youtube.com/watch?v=3Q8_Y2Ihxx4
 
