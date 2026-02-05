@@ -3,8 +3,7 @@
 lua script I wrote for my friend who wanted to easily safe pocket his snap hook after using it in the popular game, Arc Raiders.
 The reason for doing so is due to the snap hook being a very rare, but also very useful item that he did not want to risk losing in-game.  Items in the safe pocket remain with the player no matter what.
 
-[![Video of script in action](https://img.youtube.com/vi/3Q8_Y2Ihxx4/maxresdefault.jpg)](https://www.youtube.com/watch?v=3Q8_Y2Ihxx4)
-https://www.youtube.com/watch?v=3Q8_Y2Ihxx4
+Video of the script in action:  https://www.youtube.com/watch?v=3Q8_Y2Ihxx4
 
 ![discordtext1](https://github.com/user-attachments/assets/f9753ccf-04eb-45de-a3c1-ca38c4b7ec99)
 ![discordtext2](https://github.com/user-attachments/assets/83b43257-69ce-45a5-890c-cfeb61a058c6)
