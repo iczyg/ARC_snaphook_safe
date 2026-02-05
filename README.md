@@ -12,7 +12,7 @@ The constraints for this was that we did not want to use external software such 
 
 As a result, I came up with this script, which runs in 120 ms.
 
-###Script works as follows:
+### Script works as follows:
 
 I set the resolution to my monitor size (4k).
 
@@ -29,7 +29,7 @@ The sleep delays are to allow time for the menu to come up, and for the mouse to
 On tilt right, a similar procedure is followed, except the item in the 2nd quick use slot is swapped for the item on the top right corner of the backpack.  (This is used to quickly switch between the normal "shield recharger" item and the "surge shield recharger" item.)
 
 
-###Usage:
+### Usage:
 
 Proper usage of this script will require the user to set the screen width and height to their own screen size, and set the coordinates of their mouse respectively.  The sleep delays have already been optimized to take into account potential game latency.
 
